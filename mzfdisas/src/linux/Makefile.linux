@@ -1,0 +1,23 @@
+CC = gcc
+CFLAGS = -Wall -ggdb
+
+EXEC = mzfdisas
+MAIN = mzfdisas.c
+OBJS = disas.o console.o
+
+all: $(EXEC)
+
+release: all
+	cp $(EXEC) linux/release
+
+.cc.o:
+	$(CC) $(CFLAGS) -c $<
+	
+$(EXEC): $(MAIN) $(OBJS)
+	$(CC) $(CFLAGS) -o $@ $^
+
+clean:
+	rm -f *.o core
+
+realclean: clean
+	rm -f $(EXEC)
