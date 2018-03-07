@@ -101,3 +101,10 @@ Sources:
 
 - [Undocumented opcodes](https://web.archive.org/web/20030415064150/http://www.geocities.com/SiliconValley/Peaks/3938/z80undoc.htm).
 - [More undocumented opcodes](http://www.mdfsnet.f9.co.uk/Docs/Comp/Z80/UnDocOps).
+
+
+## Acknowledgements
+The author would like to acknowledge Karl-Heinz Mau for:
+
+- Testing the Windows program and giving feedback.
+- [Hosting](https://www.sharpmz.org/mzfdisass.htm) the project.
