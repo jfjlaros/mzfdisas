@@ -9,4 +9,4 @@ Please see ReadTheDocs_ for the latest documentation.
 
 
 .. _AS2MZF: http://www.sharpmz.org/mz-700/as2mzf.htm
-.. _ReadTheDocs: http://mzput.readthedocs.io/en/latest/index.html
+.. _ReadTheDocs: http://mzfdisas.readthedocs.io/en/latest/index.html
