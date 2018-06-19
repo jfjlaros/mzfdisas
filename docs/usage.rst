@@ -32,16 +32,16 @@ header are displayed and a prompt (``>``) is shown. By typing ``u``, one page
 of code will be disassembled.
 
 .. figure:: ../doc/mzfdisass4.gif
-   :alt: Header display
+   :alt: Disassemble mode
 
-   Header display
+   Disassemble mode
 
 Type ``d`` to switch to dump mode and ``u`` to dump a page.
 
 .. figure:: ../doc/mzfdisass3.gif
-   :alt: Header display
+   :alt: Dump mode
 
-   Header display
+   Dump mode
 
 Typing ``d`` again will put the program back in disassemble mode.
 
@@ -68,9 +68,9 @@ The console recognises the following commands:
 Type ``h`` for help.
 
 .. figure:: ../doc/mzfdisass2.gif
-   :alt: Header display
+   :alt: Options
 
-   Header display
+   Options
 
 
 Other features
