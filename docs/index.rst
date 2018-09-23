@@ -1,4 +1,4 @@
-.. doc_test documentation.
+.. mzfdisas documentation.
 
 .. include:: ../README.rst
 

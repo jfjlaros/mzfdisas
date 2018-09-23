@@ -35,5 +35,5 @@ For Windows, use:
 The binary will be placed in the ``release`` subdirectory.
 
 
-.. _Linux: https://sharpmz.org/download/mzfdisas.zip
-.. _Windows: https://sharpmz.org/download/mzfdisas32.zip
+.. _Linux: https://web.archive.org/web/20150926202815/http://www.sharpmz.org/download/mzfdisas.zip
+.. _Windows: https://web.archive.org/web/20150926202815/http://www.sharpmz.org/download/mzfdisas32.zip

@@ -7,4 +7,4 @@ The author would like to acknowledge Karl-Heinz Mau for:
 -  Hosting_ the project.
 
 
-.. _Hosting: https://www.sharpmz.org/mzfdisass.htm
+.. _Hosting: https://web.archive.org/web/20170831235457/http://www.sharpmz.org/mzfdisass.htm
